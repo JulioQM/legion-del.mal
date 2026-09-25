@@ -6,3 +6,4 @@
 4. joker
 5. karle klen
 6. carlos dlt
+7. Darksied
