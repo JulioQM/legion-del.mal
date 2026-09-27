@@ -17,3 +17,7 @@ El control mental hace referencia a la influencia psicológica, manipulación o 
 ### Recomendación
 
 Mantén un criterio propio, escucha con atención, valida tus emociones y busca apoyo si sientes que alguien intenta influenciarte sin tu consentimiento.
+## pasos
+1
+2
+3
