@@ -17,3 +17,9 @@ Aislar y paralizar la ciudad para impedir la reacción del enemigo y ganar tiemp
 
 ### Resultado esperado
 Metrópolis queda inmovilizada durante el tiempo necesario para ejecutar la siguiente fase de la operación.   
+
+## pasos
+1
+2
+3
+4
